@@ -8398,3 +8398,175 @@
 21/12/22 06:15:07 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //span[contains(text(), 'Products')] using locatorType xpath
 21/12/22 06:15:07 PM Wednesday - ElementsInteractions - INFO : Element is displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
 21/12/22 06:15:07 PM Wednesday - ElementsInteractions - INFO : estamos en la pagina de login
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : estamos en la pagina de login
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO :  Element found with locator //span[contains(text(), 'Products')] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Element is displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+21/12/22 06:54:37 PM Wednesday - ElementsInteractions - INFO : Estamos en la pagina de login
+22/12/22 05:24:40 PM Thursday - <module> - INFO : Script started
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO :  Element found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:24:42 PM Thursday - ElementsInteractions - INFO : Estamos en la pagina de login
+22/12/22 05:24:45 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:24:45 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:24:45 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:24:45 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:24:45 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:24:46 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:24:46 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:24:46 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:24:46 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:24:46 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:24:53 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:24:53 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:24:53 PM Thursday - ElementsInteractions - INFO : El mensaje no se encuentra
+22/12/22 05:25:15 PM Thursday - <module> - INFO : Script started
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:25:17 PM Thursday - ElementsInteractions - INFO : Estamos en la pagina de login
+22/12/22 05:25:20 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:25:20 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:25:20 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:25:20 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:25:20 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:25:21 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:25:21 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:25:21 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:25:21 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:25:21 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:25:26 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:25:26 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:25:26 PM Thursday - ElementsInteractions - INFO : El mensaje no se encuentra
+22/12/22 05:27:16 PM Thursday - <module> - INFO : Script started
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : Sent the text  secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:27:17 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:27:43 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:27:43 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:27:43 PM Thursday - ElementsInteractions - ERROR : No estamos en la pagina de Login
+22/12/22 05:27:46 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:27:46 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:27:46 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:27:46 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:27:46 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO : Sent the text locked_out_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:27:47 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:37:31 PM Thursday - <module> - INFO : Script started
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : Sent the text  secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:37:33 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:37:58 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:37:58 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:37:58 PM Thursday - ElementsInteractions - ERROR : No estamos en la pagina de Login
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Sent the text locked_out_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:38:01 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:38:25 PM Thursday - <module> - INFO : Script started
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : Sent the text  secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:27 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:52 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:38:53 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:38:53 PM Thursday - ElementsInteractions - ERROR : No estamos en la pagina de Login
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Sent the text locked_out_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:38:56 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:39:59 PM Thursday - <module> - INFO : Script started
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : Sent the text standard_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : Sent the text  secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:40:00 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:40:17 PM Thursday - ElementsInteractions - ERROR :  Element not found with locator //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:40:17 PM Thursday - ElementsInteractions - ERROR : Element is not displayed on web page with locator value //span[contains(text(), 'Products')] using locatorType xpath
+22/12/22 05:40:17 PM Thursday - ElementsInteractions - ERROR : No estamos en la pagina de Login
+22/12/22 05:42:09 PM Thursday - <module> - INFO : Script started
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Web page launched with URL : https://www.saucedemo.com/
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='login_logo'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : estamos en la pagina de login
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Sent the text locked_out_user in element with locator value //div[@class='login_wrapper']/descendant::input[@id='user-name'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Sent the text secret_sauce in element with locator value //div[@class='login_wrapper']/descendant::input[@id='password'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Clicked on element with locator value //div[@class='login_wrapper']/descendant::input[@id='login-button'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO :  Element found with locator //div[@class='error-message-container error'] using locatorType xpath
+22/12/22 05:42:11 PM Thursday - ElementsInteractions - INFO : Element is displayed on web page with locator value //div[@class='error-message-container error'] using locatorType xpath
